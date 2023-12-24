@@ -1,5 +1,5 @@
 // The 'templateankara' program.
-program enestoken.aleo {
+program enestoken_12312313111.aleo {
 
     mapping account: address => u64;
 
